@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+/*_cache/
+/cache/
+.RData
+/results_*/
