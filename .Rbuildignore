@@ -4,3 +4,4 @@
 /cache/
 .RData
 /results_*/
+^data-raw$
